@@ -1,1 +1,1 @@
-# Wallstreet-Reddit-Comments
+# WallstreetBet-Reddit-Comments
